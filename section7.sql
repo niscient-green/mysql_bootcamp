@@ -1,3 +1,5 @@
+CREATE DATABASE books;
+
 CREATE TABLE books 
 	(
 		book_id INT NOT NULL AUTO_INCREMENT,
